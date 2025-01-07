@@ -1,0 +1,15 @@
+2025/01/04-15:10:23.444430 ee2f28a0f000 Recovering log #181
+2025/01/04-15:10:23.451456 ee2f28a0f000 Delete type=0 #181
+2025/01/04-15:10:23.451496 ee2f28a0f000 Delete type=3 #179
+2025/01/06-18:56:33.503841 ee2f2760f000 Level-0 table #187: started
+2025/01/06-18:56:33.508233 ee2f2760f000 Level-0 table #187: 66653 bytes OK
+2025/01/06-18:56:33.510425 ee2f2760f000 Delete type=0 #185
+2025/01/06-18:56:33.516085 ee2f2760f000 Manual compaction at level-0 from '!messages!0w9sfKfIjq2yY580' @ 72057594037927935 : 1 .. '!messages!zvHHhCFC3ilvjMGU' @ 0 : 0; will stop at (end)
+2025/01/06-18:56:33.518966 ee2f2760f000 Manual compaction at level-1 from '!messages!0w9sfKfIjq2yY580' @ 72057594037927935 : 1 .. '!messages!zvHHhCFC3ilvjMGU' @ 0 : 0; will stop at '!messages!zvHHhCFC3ilvjMGU' @ 3240 : 1
+2025/01/06-18:56:33.518971 ee2f2760f000 Compacting 1@1 + 1@2 files
+2025/01/06-18:56:33.522939 ee2f2760f000 Generated table #188@1: 180 keys, 92708 bytes
+2025/01/06-18:56:33.522950 ee2f2760f000 Compacted 1@1 + 1@2 files => 92708 bytes
+2025/01/06-18:56:33.524953 ee2f2760f000 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/01/06-18:56:33.525022 ee2f2760f000 Delete type=2 #187
+2025/01/06-18:56:33.525084 ee2f2760f000 Delete type=2 #183
+2025/01/06-18:56:33.528233 ee2f2760f000 Manual compaction at level-1 from '!messages!zvHHhCFC3ilvjMGU' @ 3240 : 1 .. '!messages!zvHHhCFC3ilvjMGU' @ 0 : 0; will stop at (end)
