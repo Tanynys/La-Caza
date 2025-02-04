@@ -1,6 +1,6 @@
 {
-  "title": "La Caza",
-  "id": "la-caza",
+  "title": "Sombras en el norte",
+  "id": "sombras-en-el-norte",
   "system": "custom-system-builder",
   "joinTheme": "minimal",
   "coreVersion": "12.331",
@@ -8,8 +8,8 @@
     "minimum": "12",
     "verified": "12.331"
   },
-  "systemVersion": "4.3.1",
-  "lastPlayed": "Tue Feb 04 2025 18:36:00 GMT+0000 (Coordinated Universal Time)",
+  "systemVersion": "4.2.0",
+  "lastPlayed": "Tue Jan 07 2025 16:51:50 GMT+0000 (Coordinated Universal Time)",
   "playtime": 2795761,
-  "background": "worlds/la-caza/images/FondoLaCaza.jpg"
+  "background": "worlds/sombras-en-el-norte/Recursos/de98uxo-568b724d-56eb-4158-a66c-46b8c597002a.jpg"
 }
