@@ -1,7 +1,7 @@
 # La-Caza
 Mundo para Foundry VTT con las hojas de personaje para el juego "La Caza" en español para el sistema Custom System Builder.
 
-AVISO: No soy programador ni entiendo de CSS. Este sistema se ha creado, y se ofrece tal cual está, por un aficionado para otros aficionados con el único de interés de facilitar el juego con este sistema. Siéntete libre de cambiar y modificar lo que creas oportuno. Si lo haces y mejora lo que hay te agradezco me avises para modificarlo. Toda colaboración es bienvenida. Las imágenes se han obtenido de un banco de imágenes, y sus derechos pertenecen a sus creadores. Si crees que alguna no debería estar aquí te agradezco que me lo digas para su eliminación inmediata.
+AVISO: No soy programador ni entiendo de CSS. Este sistema se ha creado, y se ofrece tal cual está, por un aficionado para otros aficionados con el único de interés de facilitar el juego con este sistema. Siéntete libre de cambiar y modificar lo que creas oportuno. Si lo haces y mejora lo que hay te agradezco me avises para modificarlo. Toda colaboración es bienvenida. 
 
 Agradecimientos:
 
