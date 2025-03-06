@@ -16,6 +16,15 @@ A mi hermano Skógarmaðr cuya ilusión me inspiro a crear este sistema.
 A Joserra y a Herk que participaron en los testeos.
 
 
+
+INSTALACIÓN
+
+Descargar archivo ZIP del repositorio (ver imagen), descomprimir, cambiar nombre de la carpeta a "la-caza" y subir a carpeta "worlds" en Foundry (...foundrydata/Data/worlds/)
+
+![Instalación](https://github.com/user-attachments/assets/1db55c02-fc77-4e4d-a18a-4505ec4d4bee)
+
+
+
 CREAR PERSONAJE.
 
 En la Caza hay tres sendas, naturaleza, misticismo y guerra. En cada senda hay tres posibles destinos o tipos de personajes. Todos los personajes están visibles para todos los personajes, el guía puede asignarlos individualmente desde el sistema.
@@ -35,6 +44,7 @@ Debajo de estos campos en el lado de la izquierda tenemos los cuatro atributos, 
 En la parte inferior de esta pestaña general, el jugador debe seleccionar dos de las tres posesiones preciadas y una de las dos acciones especiales de senda. Todos los Elegidos tienen las dos acciones especiales que pertenecen a su destino. La flechita bajo cada acción permite desplegar, o ocultar, la información correspondiente a cada acción.
 
 En la pestaña de Notas, el jugador puede tomar notas en un campo de texto y en la pestaña de Reglas hay un pequeño resumen de las reglas básicas del sistema.
+
 
 
 TIRADAS
