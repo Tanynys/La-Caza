@@ -1,0 +1,15 @@
+{
+  "title": "La Caza",
+  "id": "la-caza",
+  "system": "custom-system-builder",
+  "joinTheme": "minimal",
+  "coreVersion": "12.331",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12.331"
+  },
+  "systemVersion": "4.4.2",
+  "lastPlayed": "Sat Mar 22 2025 10:51:27 GMT+0000 (Coordinated Universal Time)",
+  "playtime": 2796872,
+  "background": "worlds/la-caza/images/FondoLaCaza.jpg"
+}
